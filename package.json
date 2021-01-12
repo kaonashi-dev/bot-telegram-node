@@ -1,0 +1,17 @@
+{
+  "name": "boot-telegram-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "samueldlh",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
